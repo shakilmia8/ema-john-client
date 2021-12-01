@@ -28,7 +28,7 @@ const Login = () => {
                     <br />
                     <input type="password" name="password" placeholder='Your password' />
                     <br />
-                    <input type="submit" value="submit" />
+                    <input type="submit" value="Login" />
                     <br />
                 </form>
                 <div>----------or----------</div>
