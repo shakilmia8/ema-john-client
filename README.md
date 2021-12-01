@@ -2,14 +2,12 @@
 
 You see server site code link [Click here](https://github.com/shakilmia8/ema-john-server).
 
-If you want to visit this site [Click here](https://assignment-11-d5732.web.app/).
+If you want to visit this site [Click here](https://ema-jhon-simple-module-54.web.app/).
 
-## Advantage of TravelTrip website
+## Advantage of ema-john website
 
-1. Travel Makes You Happier.
-2. Travel Lets You Disconnect & Recharge.
-3. Traveling Relieves Stress and Anxiety.
-4. Travel Exposes You to New Things.
-5. Travel Exposes Others to New Things.
-6. Travel Makes You Physically Healthier.
-7. Traveling Can Boost Your Creativity.
+1. Low Financial Cost.
+2. Sell Internationally.
+3. Easy to Showcase Bestsellers.
+4. Personalized Online Experience.
+5. Affordable Employees.
